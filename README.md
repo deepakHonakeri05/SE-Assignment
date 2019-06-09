@@ -1,1 +1,1 @@
-# SE-Assignment
+# Espresso UI automated test
